@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "蝶影繚乱",
   "base_artist": "ぶいすぽっ！、蝶屋はなび",
-  "createdAt": "2025-12-13T14:04:20.534693Z",
+  "createdAt": "2026-03-20T11:51:46.010839Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "ぶいすぽっ!、蝶屋はなび",
       "has_synced": false,
       "path": "select/pl_01_蝶影繚乱_ぶいすぽっ!、蝶屋はなび.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "蝶影繚乱",
+      "artist": "ぶいすぽっ！、蝶屋はなび",
+      "has_synced": false,
+      "path": "select/localdb_01_蝶影繚乱_ぶいすぽっ!、蝶屋はなび.txt",
+      "repo_name": "XCNx7UPyxqg"
     }
   ]
 }
